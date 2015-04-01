@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixAnalyzer", "PrefixAnalyzer\PrefixAnalyzer.csproj", "{D1BE7B4D-00D4-43A4-8CBB-24F8E8689B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixAnalyzer.Core", "PrefixAnalyzer.Core\PrefixAnalyzer.Core.csproj", "{30F942CB-D469-4471-8630-A744B3F5FDD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixAnalyzer.Server", "PrefixAnalyzer.Server\PrefixAnalyzer.Server.csproj", "{7A0F2360-9249-464F-8A41-ADFE034A851A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixAnalyzer.Client", "PrefixAnalyzer.Client\PrefixAnalyzer.Client.csproj", "{16366E01-F7B8-4636-996C-E285BECF98D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixAnalyzer.Tests", "PrefixAnalyzer.Tests\PrefixAnalyzer.Tests.csproj", "{26559F75-00E9-4900-8C12-22AB8B45EF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timus", "Timus\Timus.csproj", "{736A0560-AF1E-476A-A2F9-CCB265B6016A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BE7B4D-00D4-43A4-8CBB-24F8E8689B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BE7B4D-00D4-43A4-8CBB-24F8E8689B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BE7B4D-00D4-43A4-8CBB-24F8E8689B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BE7B4D-00D4-43A4-8CBB-24F8E8689B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F942CB-D469-4471-8630-A744B3F5FDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F942CB-D469-4471-8630-A744B3F5FDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F942CB-D469-4471-8630-A744B3F5FDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F942CB-D469-4471-8630-A744B3F5FDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0F2360-9249-464F-8A41-ADFE034A851A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0F2360-9249-464F-8A41-ADFE034A851A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0F2360-9249-464F-8A41-ADFE034A851A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0F2360-9249-464F-8A41-ADFE034A851A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16366E01-F7B8-4636-996C-E285BECF98D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16366E01-F7B8-4636-996C-E285BECF98D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16366E01-F7B8-4636-996C-E285BECF98D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16366E01-F7B8-4636-996C-E285BECF98D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26559F75-00E9-4900-8C12-22AB8B45EF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26559F75-00E9-4900-8C12-22AB8B45EF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26559F75-00E9-4900-8C12-22AB8B45EF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26559F75-00E9-4900-8C12-22AB8B45EF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736A0560-AF1E-476A-A2F9-CCB265B6016A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736A0560-AF1E-476A-A2F9-CCB265B6016A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736A0560-AF1E-476A-A2F9-CCB265B6016A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736A0560-AF1E-476A-A2F9-CCB265B6016A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
